@@ -2,8 +2,8 @@
 /*
  *
  *
- * Author: Fahim Masud Choudhury <fahim.cuet@gmail.com>
- *         Hasanuzzaman Noor     <zaman.cuet@gmail.com>
+ * Author: Hasanuzzaman Noor     <noor.hasanuzzaman@gmail.com>
+ *         Fahim Masud Choudhury <fahim.cuet@gmail.com>
  *         Md. Monowar Hossain   <murad0904045@gmail.com>
  */
 
